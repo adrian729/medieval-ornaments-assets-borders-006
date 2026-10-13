@@ -1,0 +1,3349 @@
+[
+  {
+    "description": "Original blue painted inlay with one complete hand-painted pale opposed-chevron cycle, for bars and source-derived miter frames. Part of the Walters W.171 Seven Planets set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "chevron",
+      "chain",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "blue-white-opposed-chevron-repeat",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "y",
+    "components": {
+      "bar": {
+        "png": "png/blue-white-opposed-chevron-repeat-bar.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-bar.webp",
+        "width": 1030,
+        "height": 186,
+        "png_bytes": 71047,
+        "webp_bytes": 215874,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-bar.webp",
+            "width": 128,
+            "height": 23,
+            "png_bytes": 7234,
+            "webp_bytes": 6310
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/blue-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/256/blue-white-opposed-chevron-repeat-bar.webp",
+            "width": 256,
+            "height": 46,
+            "png_bytes": 24419,
+            "webp_bytes": 21108
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/blue-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/512/blue-white-opposed-chevron-repeat-bar.webp",
+            "width": 512,
+            "height": 92,
+            "png_bytes": 85273,
+            "webp_bytes": 71946
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/blue-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/768/blue-white-opposed-chevron-repeat-bar.webp",
+            "width": 768,
+            "height": 139,
+            "png_bytes": 181416,
+            "webp_bytes": 164484
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/blue-white-opposed-chevron-repeat-border.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-border.webp",
+        "width": 578,
+        "height": 578,
+        "png_bytes": 390852,
+        "webp_bytes": 370330,
+        "variants": [
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 289,
+            "png": "png/512/blue-white-opposed-chevron-repeat-border.png",
+            "webp": "webp/512/blue-white-opposed-chevron-repeat-border.webp",
+            "width": 289,
+            "height": 289,
+            "png_bytes": 107016,
+            "webp_bytes": 109968
+          }
+        ],
+        "slice_pixels": 186
+      },
+      "corner-top-left": {
+        "png": "png/blue-white-opposed-chevron-repeat-corner-top-left.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-corner-top-left.webp",
+        "width": 186,
+        "height": 186,
+        "png_bytes": 59009,
+        "webp_bytes": 47958,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-corner-top-left.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 28407,
+            "webp_bytes": 25554
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/blue-white-opposed-chevron-repeat-corner-top-right.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-corner-top-right.webp",
+        "width": 186,
+        "height": 186,
+        "png_bytes": 59693,
+        "webp_bytes": 48154,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-corner-top-right.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 29028,
+            "webp_bytes": 25808
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/blue-white-opposed-chevron-repeat-corner-bottom-right.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-corner-bottom-right.webp",
+        "width": 186,
+        "height": 186,
+        "png_bytes": 59340,
+        "webp_bytes": 47538,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-corner-bottom-right.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 28740,
+            "webp_bytes": 26090
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/blue-white-opposed-chevron-repeat-corner-bottom-left.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-corner-bottom-left.webp",
+        "width": 186,
+        "height": 186,
+        "png_bytes": 59531,
+        "webp_bytes": 49404,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-corner-bottom-left.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 28752,
+            "webp_bytes": 25680
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/blue-white-opposed-chevron-repeat-rotated.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-rotated.webp",
+        "width": 206,
+        "height": 186,
+        "png_bytes": 65730,
+        "webp_bytes": 54992,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-rotated.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-rotated.webp",
+            "width": 128,
+            "height": 116,
+            "png_bytes": 26647,
+            "webp_bytes": 24196
+          }
+        ],
+        "repeat_axis": "x",
+        "repeat_ratio": 1.10752688172043
+      },
+      "rotated_bar": {
+        "png": "png/blue-white-opposed-chevron-repeat-bar-rotated.png",
+        "webp": "webp/blue-white-opposed-chevron-repeat-bar-rotated.webp",
+        "width": 186,
+        "height": 1030,
+        "png_bytes": 328842,
+        "webp_bytes": 218116,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/blue-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/128/blue-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 23,
+            "height": 128,
+            "png_bytes": 7571,
+            "webp_bytes": 6668
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/blue-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/256/blue-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 46,
+            "height": 256,
+            "png_bytes": 25397,
+            "webp_bytes": 21568
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/blue-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/512/blue-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 92,
+            "height": 512,
+            "png_bytes": 88781,
+            "webp_bytes": 73806
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/blue-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/768/blue-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 139,
+            "height": 768,
+            "png_bytes": 188618,
+            "webp_bytes": 156818
+          }
+        ]
+      }
+    },
+    "reference": "walters-w171-10r",
+    "png": "png/blue-white-opposed-chevron-repeat.png",
+    "webp": "webp/blue-white-opposed-chevron-repeat.webp",
+    "width": 186,
+    "height": 206,
+    "png_bytes": 66167,
+    "webp_bytes": 53556,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-white-opposed-chevron-repeat.png",
+        "webp": "webp/128/blue-white-opposed-chevron-repeat.webp",
+        "width": 116,
+        "height": 128,
+        "png_bytes": 27065,
+        "webp_bytes": 24354
+      }
+    ],
+    "repeat_ratio": 1.10752688172043,
+    "source_pattern": "The source whole painted inlay shows repeated opposed-chevron phases. This interior cycle retains both alternating turns and both complete pale side-chain motifs. Hand-drawn cycle spacing differs slightly; one original two-turn period is repeated rather than claiming pixel-identical printed cycles.",
+    "border_image_slice_percent": 32.17993079584775,
+    "frame_edge_ratio": 1.10752688172043,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)",
+      "object_identifier": "W.171, fol. 10r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native original painted blue/pink field is integral to this narrow bar, with pale chevron-chain paint. No parchment, adjacent gold rod or letters. One complete interior period transposed exactly 90 degrees, with a two-pixel join collar; original interior pixels unchanged. Four same-artwork miter corners need review.",
+      "Repeats originally vertically; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-10r-set",
+        "name": "Walters W.171 Seven Planets"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9559
+    },
+    "master_longest_dimension_cap": 206,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete four-shape blue-red cycle of opposed lobed leaves within gray interlacing ribbons on gilt ground. Part of the Initial \"S\" (Sed cum iudei) (walters-w148-31r) set.",
+    "categories": [
+      "geometric",
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "heart",
+      "interlace",
+      "band"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "gray",
+      "gold",
+      "black"
+    ],
+    "composition": "repeat-tile",
+    "name": "opposed-blue-red-leaves-with-gray-interlace-cycle",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "y",
+    "components": {
+      "bar": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.webp",
+        "width": 13090,
+        "height": 604,
+        "png_bytes": 2310955,
+        "webp_bytes": 6289092,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.webp",
+            "width": 128,
+            "height": 6,
+            "png_bytes": 2142,
+            "webp_bytes": 2046
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.webp",
+            "width": 256,
+            "height": 12,
+            "png_bytes": 6806,
+            "webp_bytes": 5774
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.webp",
+            "width": 512,
+            "height": 24,
+            "png_bytes": 24022,
+            "webp_bytes": 18642
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.png",
+            "webp": "webp/768/opposed-blue-red-leaves-with-gray-interlace-cycle-bar.webp",
+            "width": 768,
+            "height": 35,
+            "png_bytes": 49563,
+            "webp_bytes": 37358
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-border.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-border.webp",
+        "width": 3826,
+        "height": 3826,
+        "png_bytes": 9744332,
+        "webp_bytes": 8170790,
+        "variants": [],
+        "slice_pixels": 604
+      },
+      "corner-top-left": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.webp",
+        "width": 604,
+        "height": 604,
+        "png_bytes": 496230,
+        "webp_bytes": 380692,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 25972,
+            "webp_bytes": 19594
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.webp",
+            "width": 256,
+            "height": 256,
+            "png_bytes": 92054,
+            "webp_bytes": 72058
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-left.webp",
+            "width": 512,
+            "height": 512,
+            "png_bytes": 345260,
+            "webp_bytes": 266676
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.webp",
+        "width": 604,
+        "height": 604,
+        "png_bytes": 509087,
+        "webp_bytes": 390994,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 26923,
+            "webp_bytes": 20254
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.webp",
+            "width": 256,
+            "height": 256,
+            "png_bytes": 94364,
+            "webp_bytes": 74384
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-top-right.webp",
+            "width": 512,
+            "height": 512,
+            "png_bytes": 356147,
+            "webp_bytes": 273656
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.webp",
+        "width": 604,
+        "height": 604,
+        "png_bytes": 496168,
+        "webp_bytes": 381460,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 26077,
+            "webp_bytes": 19930
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.webp",
+            "width": 256,
+            "height": 256,
+            "png_bytes": 92347,
+            "webp_bytes": 72244
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-right.webp",
+            "width": 512,
+            "height": 512,
+            "png_bytes": 346114,
+            "webp_bytes": 267260
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.webp",
+        "width": 604,
+        "height": 604,
+        "png_bytes": 508227,
+        "webp_bytes": 390948,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 26875,
+            "webp_bytes": 20126
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.webp",
+            "width": 256,
+            "height": 256,
+            "png_bytes": 94299,
+            "webp_bytes": 73402
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-corner-bottom-left.webp",
+            "width": 512,
+            "height": 512,
+            "png_bytes": 355418,
+            "webp_bytes": 274034
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.webp",
+        "width": 2618,
+        "height": 604,
+        "png_bytes": 2127701,
+        "webp_bytes": 1663314,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.webp",
+            "width": 128,
+            "height": 30,
+            "png_bytes": 7537,
+            "webp_bytes": 5826
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.webp",
+            "width": 256,
+            "height": 59,
+            "png_bytes": 26065,
+            "webp_bytes": 19240
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.webp",
+            "width": 512,
+            "height": 118,
+            "png_bytes": 93759,
+            "webp_bytes": 69254
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.png",
+            "webp": "webp/768/opposed-blue-red-leaves-with-gray-interlace-cycle-rotated.webp",
+            "width": 768,
+            "height": 177,
+            "png_bytes": 198824,
+            "webp_bytes": 150594
+          }
+        ],
+        "repeat_axis": "x",
+        "repeat_ratio": 4.3344370860927155
+      },
+      "rotated_bar": {
+        "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.png",
+        "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.webp",
+        "width": 604,
+        "height": 13090,
+        "png_bytes": 10629240,
+        "webp_bytes": 8365098,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.png",
+            "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.webp",
+            "width": 6,
+            "height": 128,
+            "png_bytes": 2205,
+            "webp_bytes": 2062
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.png",
+            "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.webp",
+            "width": 12,
+            "height": 256,
+            "png_bytes": 7047,
+            "webp_bytes": 7084
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.png",
+            "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.webp",
+            "width": 24,
+            "height": 512,
+            "png_bytes": 24566,
+            "webp_bytes": 22658
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.png",
+            "webp": "webp/768/opposed-blue-red-leaves-with-gray-interlace-cycle-bar-rotated.webp",
+            "width": 35,
+            "height": 768,
+            "png_bytes": 51087,
+            "webp_bytes": 38278
+          }
+        ]
+      }
+    },
+    "reference": "walters-w148-31r",
+    "png": "png/opposed-blue-red-leaves-with-gray-interlace-cycle.png",
+    "webp": "webp/opposed-blue-red-leaves-with-gray-interlace-cycle.webp",
+    "width": 604,
+    "height": 2618,
+    "png_bytes": 2126526,
+    "webp_bytes": 1663178,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/opposed-blue-red-leaves-with-gray-interlace-cycle.png",
+        "webp": "webp/128/opposed-blue-red-leaves-with-gray-interlace-cycle.webp",
+        "width": 30,
+        "height": 128,
+        "png_bytes": 7649,
+        "webp_bytes": 6122
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/opposed-blue-red-leaves-with-gray-interlace-cycle.png",
+        "webp": "webp/256/opposed-blue-red-leaves-with-gray-interlace-cycle.webp",
+        "width": 59,
+        "height": 256,
+        "png_bytes": 26452,
+        "webp_bytes": 19326
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/opposed-blue-red-leaves-with-gray-interlace-cycle.png",
+        "webp": "webp/512/opposed-blue-red-leaves-with-gray-interlace-cycle.webp",
+        "width": 118,
+        "height": 512,
+        "png_bytes": 95298,
+        "webp_bytes": 69520
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/opposed-blue-red-leaves-with-gray-interlace-cycle.png",
+        "webp": "webp/768/opposed-blue-red-leaves-with-gray-interlace-cycle.webp",
+        "width": 177,
+        "height": 768,
+        "png_bytes": 201946,
+        "webp_bytes": 150346
+      }
+    ],
+    "repeat_ratio": 4.3344370860927155,
+    "source_pattern": "The right source band has both upward and downward lobes for each of the blue and red phases: red-up, blue-down, blue-up, red-down recur between equivalent interlace crossings. All four shapes are needed to preserve the actual color-and-direction cycle. Original hand-painted spacing varies. The original vertical source is transposed exactly 90 degrees for the canonical horizontal assembly; the original orientation will be retained as an exact rotated component.",
+    "border_image_slice_percent": 15.786722425509671,
+    "frame_edge_ratio": 4.3344370860927155,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" (Sed cum iudei)",
+      "object_identifier": "W.148, fol. 31r",
+      "date": "First half of the 14th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete original motif and color period. Original gilt/gray-green painted fields remain opaque. Original spacing and brush shapes are preserved within this chosen native period; source hand-painted cycles vary. Bars and four miter phases derive from this exact artwork, with only the audited two-column end join. These derived corners do not claim to be the original mixed-pattern page corners. Original alphabet glyphs and manuscript text are excluded.",
+      "Repeats originally vertically; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w148-31r-set",
+        "name": "Initial \"S\" (Sed cum iudei) (walters-w148-31r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8845,
+      "height": 10498
+    },
+    "master_longest_dimension_cap": 2618,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original pink painted inlay with one complete hand-painted pale opposed-chevron cycle, for bars and source-derived miter frames. Part of the Walters W.171 Seven Planets set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "chevron",
+      "chain",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "white",
+      "black"
+    ],
+    "composition": "repeat-tile",
+    "name": "pink-white-opposed-chevron-repeat",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "y",
+    "components": {
+      "bar": {
+        "png": "png/pink-white-opposed-chevron-repeat-bar.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-bar.webp",
+        "width": 1225,
+        "height": 196,
+        "png_bytes": 84654,
+        "webp_bytes": 255652,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-bar.webp",
+            "width": 128,
+            "height": 20,
+            "png_bytes": 5485,
+            "webp_bytes": 4832
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/pink-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/256/pink-white-opposed-chevron-repeat-bar.webp",
+            "width": 256,
+            "height": 41,
+            "png_bytes": 20338,
+            "webp_bytes": 16932
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/pink-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/512/pink-white-opposed-chevron-repeat-bar.webp",
+            "width": 512,
+            "height": 82,
+            "png_bytes": 72335,
+            "webp_bytes": 59738
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/pink-white-opposed-chevron-repeat-bar.png",
+            "webp": "webp/768/pink-white-opposed-chevron-repeat-bar.webp",
+            "width": 768,
+            "height": 123,
+            "png_bytes": 152238,
+            "webp_bytes": 128542
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/pink-white-opposed-chevron-repeat-border.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-border.webp",
+        "width": 637,
+        "height": 637,
+        "png_bytes": 450220,
+        "webp_bytes": 456128,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 117,
+            "png": "png/128/pink-white-opposed-chevron-repeat-border.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-border.webp",
+            "width": 117,
+            "height": 117,
+            "png_bytes": 18437,
+            "webp_bytes": 17918
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 247,
+            "png": "png/256/pink-white-opposed-chevron-repeat-border.png",
+            "webp": "webp/256/pink-white-opposed-chevron-repeat-border.webp",
+            "width": 247,
+            "height": 247,
+            "png_bytes": 76620,
+            "webp_bytes": 71386
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 507,
+            "png": "png/512/pink-white-opposed-chevron-repeat-border.png",
+            "webp": "webp/512/pink-white-opposed-chevron-repeat-border.webp",
+            "width": 507,
+            "height": 507,
+            "png_bytes": 287495,
+            "webp_bytes": 269188
+          }
+        ],
+        "slice_pixels": 196
+      },
+      "corner-top-left": {
+        "png": "png/pink-white-opposed-chevron-repeat-corner-top-left.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-corner-top-left.webp",
+        "width": 196,
+        "height": 196,
+        "png_bytes": 63376,
+        "webp_bytes": 51012,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-corner-top-left.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 27591,
+            "webp_bytes": 24228
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/pink-white-opposed-chevron-repeat-corner-top-right.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-corner-top-right.webp",
+        "width": 196,
+        "height": 196,
+        "png_bytes": 63413,
+        "webp_bytes": 50298,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-corner-top-right.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 27976,
+            "webp_bytes": 24288
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/pink-white-opposed-chevron-repeat-corner-bottom-right.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-corner-bottom-right.webp",
+        "width": 196,
+        "height": 196,
+        "png_bytes": 63711,
+        "webp_bytes": 50796,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-corner-bottom-right.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 27932,
+            "webp_bytes": 24338
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/pink-white-opposed-chevron-repeat-corner-bottom-left.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-corner-bottom-left.webp",
+        "width": 196,
+        "height": 196,
+        "png_bytes": 63192,
+        "webp_bytes": 51028,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-corner-bottom-left.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 27743,
+            "webp_bytes": 24372
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/pink-white-opposed-chevron-repeat-rotated.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-rotated.webp",
+        "width": 245,
+        "height": 196,
+        "png_bytes": 78149,
+        "webp_bytes": 62474,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-rotated.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-rotated.webp",
+            "width": 128,
+            "height": 102,
+            "png_bytes": 22441,
+            "webp_bytes": 19548
+          }
+        ],
+        "repeat_axis": "x",
+        "repeat_ratio": 1.25
+      },
+      "rotated_bar": {
+        "png": "png/pink-white-opposed-chevron-repeat-bar-rotated.png",
+        "webp": "webp/pink-white-opposed-chevron-repeat-bar-rotated.webp",
+        "width": 196,
+        "height": 1225,
+        "png_bytes": 393292,
+        "webp_bytes": 260476,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/pink-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/128/pink-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 20,
+            "height": 128,
+            "png_bytes": 5765,
+            "webp_bytes": 5114
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/pink-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/256/pink-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 41,
+            "height": 256,
+            "png_bytes": 21076,
+            "webp_bytes": 19342
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/pink-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/512/pink-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 82,
+            "height": 512,
+            "png_bytes": 76136,
+            "webp_bytes": 58450
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/pink-white-opposed-chevron-repeat-bar-rotated.png",
+            "webp": "webp/768/pink-white-opposed-chevron-repeat-bar-rotated.webp",
+            "width": 123,
+            "height": 768,
+            "png_bytes": 161264,
+            "webp_bytes": 128296
+          }
+        ]
+      }
+    },
+    "reference": "walters-w171-10r",
+    "png": "png/pink-white-opposed-chevron-repeat.png",
+    "webp": "webp/pink-white-opposed-chevron-repeat.webp",
+    "width": 196,
+    "height": 245,
+    "png_bytes": 79042,
+    "webp_bytes": 63830,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pink-white-opposed-chevron-repeat.png",
+        "webp": "webp/128/pink-white-opposed-chevron-repeat.webp",
+        "width": 102,
+        "height": 128,
+        "png_bytes": 22970,
+        "webp_bytes": 19554
+      }
+    ],
+    "repeat_ratio": 1.25,
+    "source_pattern": "The source whole painted inlay shows repeated opposed-chevron phases. This interior cycle retains both alternating turns and both complete pale side-chain motifs. Hand-drawn cycle spacing differs slightly; one original two-turn period is repeated rather than claiming pixel-identical printed cycles.",
+    "border_image_slice_percent": 30.76923076923077,
+    "frame_edge_ratio": 1.25,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Seven planets (Saturn, Jupiter, Mars, sun, Venus, Mercury, and moon)",
+      "object_identifier": "W.171, fol. 10r",
+      "date": "1400-1404 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W171/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c5dd078f131c6014534bae097dd2e4aa92887b45917f4bf84f805fd785096b7a",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W171/data/W.171/master/W171_000023_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native original painted blue/pink field is integral to this narrow bar, with pale chevron-chain paint. No parchment, adjacent gold rod or letters. One complete interior period transposed exactly 90 degrees, with a two-pixel join collar; original interior pixels unchanged. Four same-artwork miter corners need review.",
+      "Repeats originally vertically; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w171-10r-set",
+        "name": "Walters W.171 Seven Planets"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9366,
+      "height": 9559
+    },
+    "master_longest_dimension_cap": 245,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A hand painted white curled stroke and spacing between two fine white lines on blue. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "curl",
+      "line",
+      "band"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-curled-stroke-pattern-on-blue",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-curled-stroke-pattern-on-blue-bar.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-bar.webp",
+        "width": 395,
+        "height": 214,
+        "png_bytes": 31975,
+        "webp_bytes": 112340,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-bar.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-bar.webp",
+            "width": 128,
+            "height": 69,
+            "png_bytes": 18260,
+            "webp_bytes": 16150
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-curled-stroke-pattern-on-blue-bar.png",
+            "webp": "webp/256/white-curled-stroke-pattern-on-blue-bar.webp",
+            "width": 256,
+            "height": 139,
+            "png_bytes": 65818,
+            "webp_bytes": 59336
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-curled-stroke-pattern-on-blue-border.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-border.webp",
+        "width": 507,
+        "height": 507,
+        "png_bytes": 275043,
+        "webp_bytes": 308728,
+        "variants": [],
+        "slice_pixels": 214
+      },
+      "corner-top-left": {
+        "png": "png/white-curled-stroke-pattern-on-blue-corner-top-left.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-corner-top-left.webp",
+        "width": 214,
+        "height": 214,
+        "png_bytes": 63408,
+        "webp_bytes": 61446,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-corner-top-left.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30404,
+            "webp_bytes": 27162
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-curled-stroke-pattern-on-blue-corner-top-right.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-corner-top-right.webp",
+        "width": 214,
+        "height": 214,
+        "png_bytes": 63587,
+        "webp_bytes": 61742,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-corner-top-right.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30699,
+            "webp_bytes": 27286
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-curled-stroke-pattern-on-blue-corner-bottom-right.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-corner-bottom-right.webp",
+        "width": 214,
+        "height": 214,
+        "png_bytes": 63697,
+        "webp_bytes": 61274,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-corner-bottom-right.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30611,
+            "webp_bytes": 27098
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-curled-stroke-pattern-on-blue-corner-bottom-left.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-corner-bottom-left.webp",
+        "width": 214,
+        "height": 214,
+        "png_bytes": 63749,
+        "webp_bytes": 61016,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-corner-bottom-left.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30518,
+            "webp_bytes": 27204
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-curled-stroke-pattern-on-blue-rotated.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-rotated.webp",
+        "width": 214,
+        "height": 79,
+        "png_bytes": 29702,
+        "webp_bytes": 25322,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-rotated.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-rotated.webp",
+            "width": 128,
+            "height": 47,
+            "png_bytes": 11899,
+            "webp_bytes": 10666
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 0.3691588785046729
+      },
+      "rotated_bar": {
+        "png": "png/white-curled-stroke-pattern-on-blue-bar-rotated.png",
+        "webp": "webp/white-curled-stroke-pattern-on-blue-bar-rotated.webp",
+        "width": 214,
+        "height": 395,
+        "png_bytes": 146261,
+        "webp_bytes": 110282,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-stroke-pattern-on-blue-bar-rotated.png",
+            "webp": "webp/128/white-curled-stroke-pattern-on-blue-bar-rotated.webp",
+            "width": 69,
+            "height": 128,
+            "png_bytes": 19106,
+            "webp_bytes": 16276
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-curled-stroke-pattern-on-blue-bar-rotated.png",
+            "webp": "webp/256/white-curled-stroke-pattern-on-blue-bar-rotated.webp",
+            "width": 139,
+            "height": 256,
+            "png_bytes": 68106,
+            "webp_bytes": 59986
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-197r",
+    "png": "png/white-curled-stroke-pattern-on-blue.png",
+    "webp": "webp/white-curled-stroke-pattern-on-blue.webp",
+    "width": 79,
+    "height": 214,
+    "png_bytes": 29381,
+    "webp_bytes": 25282,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-curled-stroke-pattern-on-blue.png",
+        "webp": "webp/128/white-curled-stroke-pattern-on-blue.webp",
+        "width": 47,
+        "height": 128,
+        "png_bytes": 11652,
+        "webp_bytes": 10522
+      }
+    ],
+    "repeat_ratio": 0.3691588785046729,
+    "source_pattern": "The inspected source line filler shows at least eight successive white curled stroke motifs separated by small blue gaps. The selected interior motif cell includes one complete curled stroke and its original gap, with both bounding white lines; the left gold pip and right endpoint are excluded. This repeats the original motif cell, rather than claiming that all unequal handwritten source strokes are pixel-identical.",
+    "border_image_slice_percent": 42.209072978303745,
+    "frame_edge_ratio": 0.3691588785046729,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with God blessing King David praying before altar; dragon and juggler in margin",
+      "object_identifier": "W.82, fol. 197r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "f098f1aab95c77e8a831c08f587499e72c335880be94389896da13f2b9967fe7",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000397_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original painted blue field is intrinsic artwork. Repeat unit has its original one-cycle motif or motif-cell geometry. All interiors retain scan colors after the audited rigid orientation correction; only two end columns are joined. Four derived corners use the same source artwork and phase, not unrelated flowers. PNG/WebP to retain paint texture.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7833,
+      "height": 8361
+    },
+    "master_longest_dimension_cap": 214,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pale curled wave stroke between cream rules on rose. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "wave",
+      "curl",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-curled-wave-strokes-on-rose",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-curled-wave-strokes-on-rose-bar.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-bar.webp",
+        "width": 330,
+        "height": 204,
+        "png_bytes": 26374,
+        "webp_bytes": 73930,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-bar.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-bar.webp",
+            "width": 128,
+            "height": 79,
+            "png_bytes": 19040,
+            "webp_bytes": 15960
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-curled-wave-strokes-on-rose-bar.png",
+            "webp": "webp/256/white-curled-wave-strokes-on-rose-bar.webp",
+            "width": 256,
+            "height": 158,
+            "png_bytes": 69572,
+            "webp_bytes": 60866
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-curled-wave-strokes-on-rose-border.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-border.webp",
+        "width": 474,
+        "height": 474,
+        "png_bytes": 247904,
+        "webp_bytes": 247010,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 79,
+            "png": "png/128/white-curled-wave-strokes-on-rose-border.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-border.webp",
+            "width": 79,
+            "height": 79,
+            "png_bytes": 6341,
+            "webp_bytes": 8076
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 237,
+            "png": "png/256/white-curled-wave-strokes-on-rose-border.png",
+            "webp": "webp/256/white-curled-wave-strokes-on-rose-border.webp",
+            "width": 237,
+            "height": 237,
+            "png_bytes": 43344,
+            "webp_bytes": 64890
+          }
+        ],
+        "slice_pixels": 204
+      },
+      "corner-top-left": {
+        "png": "png/white-curled-wave-strokes-on-rose-corner-top-left.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-corner-top-left.webp",
+        "width": 204,
+        "height": 204,
+        "png_bytes": 58453,
+        "webp_bytes": 55026,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-corner-top-left.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30129,
+            "webp_bytes": 25090
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-curled-wave-strokes-on-rose-corner-top-right.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-corner-top-right.webp",
+        "width": 204,
+        "height": 204,
+        "png_bytes": 58829,
+        "webp_bytes": 59118,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-corner-top-right.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30380,
+            "webp_bytes": 26286
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-curled-wave-strokes-on-rose-corner-bottom-right.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-corner-bottom-right.webp",
+        "width": 204,
+        "height": 204,
+        "png_bytes": 58738,
+        "webp_bytes": 53876,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-corner-bottom-right.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30189,
+            "webp_bytes": 26146
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-curled-wave-strokes-on-rose-corner-bottom-left.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-corner-bottom-left.webp",
+        "width": 204,
+        "height": 204,
+        "png_bytes": 58805,
+        "webp_bytes": 54530,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-corner-bottom-left.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30274,
+            "webp_bytes": 25508
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-curled-wave-strokes-on-rose-rotated.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-rotated.webp",
+        "width": 204,
+        "height": 66,
+        "png_bytes": 24141,
+        "webp_bytes": 21014,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-rotated.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-rotated.webp",
+            "width": 128,
+            "height": 41,
+            "png_bytes": 9856,
+            "webp_bytes": 8696
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 0.3235294117647059
+      },
+      "rotated_bar": {
+        "png": "png/white-curled-wave-strokes-on-rose-bar-rotated.png",
+        "webp": "webp/white-curled-wave-strokes-on-rose-bar-rotated.webp",
+        "width": 204,
+        "height": 330,
+        "png_bytes": 118313,
+        "webp_bytes": 81782,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-curled-wave-strokes-on-rose-bar-rotated.png",
+            "webp": "webp/128/white-curled-wave-strokes-on-rose-bar-rotated.webp",
+            "width": 79,
+            "height": 128,
+            "png_bytes": 19353,
+            "webp_bytes": 15440
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-curled-wave-strokes-on-rose-bar-rotated.png",
+            "webp": "webp/256/white-curled-wave-strokes-on-rose-bar-rotated.webp",
+            "width": 158,
+            "height": 256,
+            "png_bytes": 71885,
+            "webp_bytes": 60194
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-194v",
+    "png": "png/white-curled-wave-strokes-on-rose.png",
+    "webp": "webp/white-curled-wave-strokes-on-rose.webp",
+    "width": 66,
+    "height": 204,
+    "png_bytes": 23860,
+    "webp_bytes": 19634,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-curled-wave-strokes-on-rose.png",
+        "webp": "webp/128/white-curled-wave-strokes-on-rose.webp",
+        "width": 41,
+        "height": 128,
+        "png_bytes": 9680,
+        "webp_bytes": 8588
+      }
+    ],
+    "repeat_ratio": 0.3235294117647059,
+    "source_pattern": "The rose interior contains seven consecutive separate curved white strokes. This complete interior stroke and its original inter-stroke gap form a native motif cell; the two finite gold roundels and end caps are excluded.",
+    "border_image_slice_percent": 43.037974683544306,
+    "frame_edge_ratio": 0.3235294117647059,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original hand-painted motif cell, with all source paint and cream decoration retained. Neighboring source motifs differ by hand. Only two native end columns adjusted; interiors untouched. Derived four phase-matched corners reflect this exact artwork, and do not claim to be original manuscript corners. PNG/WebP; vector tracing would lose paint texture.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 204,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pale droplet-shaped loop between thin cream rules on blue. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "loop",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-droplet-loop-on-blue",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-droplet-loop-on-blue-bar.png",
+        "webp": "webp/white-droplet-loop-on-blue-bar.webp",
+        "width": 465,
+        "height": 181,
+        "png_bytes": 33922,
+        "webp_bytes": 100550,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-bar.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-bar.webp",
+            "width": 128,
+            "height": 50,
+            "png_bytes": 13635,
+            "webp_bytes": 13160
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-droplet-loop-on-blue-bar.png",
+            "webp": "webp/256/white-droplet-loop-on-blue-bar.webp",
+            "width": 256,
+            "height": 100,
+            "png_bytes": 50444,
+            "webp_bytes": 45866
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-droplet-loop-on-blue-border.png",
+        "webp": "webp/white-droplet-loop-on-blue-border.webp",
+        "width": 455,
+        "height": 455,
+        "png_bytes": 253171,
+        "webp_bytes": 285434,
+        "variants": [],
+        "slice_pixels": 181
+      },
+      "corner-top-left": {
+        "png": "png/white-droplet-loop-on-blue-corner-top-left.png",
+        "webp": "webp/white-droplet-loop-on-blue-corner-top-left.webp",
+        "width": 181,
+        "height": 181,
+        "png_bytes": 55339,
+        "webp_bytes": 53426,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-corner-top-left.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32651,
+            "webp_bytes": 28590
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-droplet-loop-on-blue-corner-top-right.png",
+        "webp": "webp/white-droplet-loop-on-blue-corner-top-right.webp",
+        "width": 181,
+        "height": 181,
+        "png_bytes": 55625,
+        "webp_bytes": 53388,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-corner-top-right.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32718,
+            "webp_bytes": 29322
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-droplet-loop-on-blue-corner-bottom-right.png",
+        "webp": "webp/white-droplet-loop-on-blue-corner-bottom-right.webp",
+        "width": 181,
+        "height": 181,
+        "png_bytes": 55676,
+        "webp_bytes": 53412,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-corner-bottom-right.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32751,
+            "webp_bytes": 29688
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-droplet-loop-on-blue-corner-bottom-left.png",
+        "webp": "webp/white-droplet-loop-on-blue-corner-bottom-left.webp",
+        "width": 181,
+        "height": 181,
+        "png_bytes": 55575,
+        "webp_bytes": 50152,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-corner-bottom-left.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32550,
+            "webp_bytes": 28660
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-droplet-loop-on-blue-rotated.png",
+        "webp": "webp/white-droplet-loop-on-blue-rotated.webp",
+        "width": 181,
+        "height": 93,
+        "png_bytes": 31760,
+        "webp_bytes": 27868,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-rotated.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-rotated.webp",
+            "width": 128,
+            "height": 66,
+            "png_bytes": 16831,
+            "webp_bytes": 15214
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 0.5138121546961326
+      },
+      "rotated_bar": {
+        "png": "png/white-droplet-loop-on-blue-bar-rotated.png",
+        "webp": "webp/white-droplet-loop-on-blue-bar-rotated.webp",
+        "width": 181,
+        "height": 465,
+        "png_bytes": 157122,
+        "webp_bytes": 120824,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-droplet-loop-on-blue-bar-rotated.png",
+            "webp": "webp/128/white-droplet-loop-on-blue-bar-rotated.webp",
+            "width": 50,
+            "height": 128,
+            "png_bytes": 14198,
+            "webp_bytes": 12578
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-droplet-loop-on-blue-bar-rotated.png",
+            "webp": "webp/256/white-droplet-loop-on-blue-bar-rotated.webp",
+            "width": 100,
+            "height": 256,
+            "png_bytes": 52465,
+            "webp_bytes": 45914
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-194v",
+    "png": "png/white-droplet-loop-on-blue.png",
+    "webp": "webp/white-droplet-loop-on-blue.webp",
+    "width": 93,
+    "height": 181,
+    "png_bytes": 31448,
+    "webp_bytes": 26276,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-droplet-loop-on-blue.png",
+        "webp": "webp/128/white-droplet-loop-on-blue.webp",
+        "width": 66,
+        "height": 128,
+        "png_bytes": 16554,
+        "webp_bytes": 15200
+      }
+    ],
+    "repeat_ratio": 0.5138121546961326,
+    "source_pattern": "Four successive handwritten closed droplet loops occur on blue between the same bounding rules. A complete interior loop and its original spacing are retained as a deliberate source motif cell; the unequal handwriting is not described as pixel-identical.",
+    "border_image_slice_percent": 39.78021978021978,
+    "frame_edge_ratio": 0.5138121546961326,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original hand-painted motif cell, with all source paint and cream decoration retained. Neighboring source motifs differ by hand. Only two native end columns adjusted; interiors untouched. Derived four phase-matched corners reflect this exact artwork, and do not claim to be original manuscript corners. PNG/WebP; vector tracing would lose paint texture.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 181,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A cream waved stem with upper and lower leaf branches on blue. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "wave",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-foliate-wave-on-blue",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-foliate-wave-on-blue-bar.png",
+        "webp": "webp/white-foliate-wave-on-blue-bar.webp",
+        "width": 1795,
+        "height": 155,
+        "png_bytes": 104572,
+        "webp_bytes": 326782,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-bar.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-bar.webp",
+            "width": 128,
+            "height": 11,
+            "png_bytes": 3754,
+            "webp_bytes": 2570
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-foliate-wave-on-blue-bar.png",
+            "webp": "webp/256/white-foliate-wave-on-blue-bar.webp",
+            "width": 256,
+            "height": 22,
+            "png_bytes": 13226,
+            "webp_bytes": 9716
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/white-foliate-wave-on-blue-bar.png",
+            "webp": "webp/512/white-foliate-wave-on-blue-bar.webp",
+            "width": 512,
+            "height": 44,
+            "png_bytes": 47124,
+            "webp_bytes": 36522
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/white-foliate-wave-on-blue-bar.png",
+            "webp": "webp/768/white-foliate-wave-on-blue-bar.webp",
+            "width": 768,
+            "height": 66,
+            "png_bytes": 99466,
+            "webp_bytes": 78266
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-foliate-wave-on-blue-border.png",
+        "webp": "webp/white-foliate-wave-on-blue-border.webp",
+        "width": 669,
+        "height": 669,
+        "png_bytes": 478936,
+        "webp_bytes": 441658,
+        "variants": [],
+        "slice_pixels": 155
+      },
+      "corner-top-left": {
+        "png": "png/white-foliate-wave-on-blue-corner-top-left.png",
+        "webp": "webp/white-foliate-wave-on-blue-corner-top-left.webp",
+        "width": 155,
+        "height": 155,
+        "png_bytes": 41896,
+        "webp_bytes": 35766,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-corner-top-left.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 29866,
+            "webp_bytes": 25294
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-foliate-wave-on-blue-corner-top-right.png",
+        "webp": "webp/white-foliate-wave-on-blue-corner-top-right.webp",
+        "width": 155,
+        "height": 155,
+        "png_bytes": 42502,
+        "webp_bytes": 36006,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-corner-top-right.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30275,
+            "webp_bytes": 25790
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-foliate-wave-on-blue-corner-bottom-right.png",
+        "webp": "webp/white-foliate-wave-on-blue-corner-bottom-right.webp",
+        "width": 155,
+        "height": 155,
+        "png_bytes": 41917,
+        "webp_bytes": 35782,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-corner-bottom-right.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 29983,
+            "webp_bytes": 25536
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-foliate-wave-on-blue-corner-bottom-left.png",
+        "webp": "webp/white-foliate-wave-on-blue-corner-bottom-left.webp",
+        "width": 155,
+        "height": 155,
+        "png_bytes": 42476,
+        "webp_bytes": 35968,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-corner-bottom-left.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 30155,
+            "webp_bytes": 25356
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-foliate-wave-on-blue-rotated.png",
+        "webp": "webp/white-foliate-wave-on-blue-rotated.webp",
+        "width": 155,
+        "height": 359,
+        "png_bytes": 97205,
+        "webp_bytes": 79460,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-rotated.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-rotated.webp",
+            "width": 55,
+            "height": 128,
+            "png_bytes": 14746,
+            "webp_bytes": 11512
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-foliate-wave-on-blue-rotated.png",
+            "webp": "webp/256/white-foliate-wave-on-blue-rotated.webp",
+            "width": 111,
+            "height": 256,
+            "png_bytes": 52986,
+            "webp_bytes": 43792
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 2.3161290322580643
+      },
+      "rotated_bar": {
+        "png": "png/white-foliate-wave-on-blue-bar-rotated.png",
+        "webp": "webp/white-foliate-wave-on-blue-bar-rotated.webp",
+        "width": 155,
+        "height": 1795,
+        "png_bytes": 484243,
+        "webp_bytes": 332020,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-blue-bar-rotated.png",
+            "webp": "webp/128/white-foliate-wave-on-blue-bar-rotated.webp",
+            "width": 11,
+            "height": 128,
+            "png_bytes": 3790,
+            "webp_bytes": 3100
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-foliate-wave-on-blue-bar-rotated.png",
+            "webp": "webp/256/white-foliate-wave-on-blue-bar-rotated.webp",
+            "width": 22,
+            "height": 256,
+            "png_bytes": 13563,
+            "webp_bytes": 11150
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/white-foliate-wave-on-blue-bar-rotated.png",
+            "webp": "webp/512/white-foliate-wave-on-blue-bar-rotated.webp",
+            "width": 44,
+            "height": 512,
+            "png_bytes": 49070,
+            "webp_bytes": 37408
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/white-foliate-wave-on-blue-bar-rotated.png",
+            "webp": "webp/768/white-foliate-wave-on-blue-bar-rotated.webp",
+            "width": 66,
+            "height": 768,
+            "png_bytes": 103944,
+            "webp_bytes": 78880
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-194v",
+    "png": "png/white-foliate-wave-on-blue.png",
+    "webp": "webp/white-foliate-wave-on-blue.webp",
+    "width": 359,
+    "height": 155,
+    "png_bytes": 95968,
+    "webp_bytes": 78990,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-foliate-wave-on-blue.png",
+        "webp": "webp/128/white-foliate-wave-on-blue.webp",
+        "width": 128,
+        "height": 55,
+        "png_bytes": 14361,
+        "webp_bytes": 11376
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/white-foliate-wave-on-blue.png",
+        "webp": "webp/256/white-foliate-wave-on-blue.webp",
+        "width": 256,
+        "height": 111,
+        "png_bytes": 52141,
+        "webp_bytes": 43346
+      }
+    ],
+    "repeat_ratio": 2.3161290322580643,
+    "source_pattern": "The original blue opening section contains successive wave arches, with white leaf pairs attached above and below. One complete interior waved motif cell retains both branch positions and its original hand-painted variation. The central gilt-roundel section and later rose field are not part of this blue unit.",
+    "border_image_slice_percent": 23.168908819133033,
+    "frame_edge_ratio": 2.3161290322580643,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete original cream vine with upper and lower leaf branches on intrinsic blue painted ground. This deliberate interior pattern band omits the finite whole bar’s irregular outside outline, which stays available in the parent asset. Original source RGB after one-degree rigid orientation correction, all motifs intact. Six transparent support rows each side and two-column joins only; four corners use this exact native pattern, no generic leaves or SVG.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 359,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A cream waved stem with upper and lower leaf branches on rose. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "wave",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-foliate-wave-on-rose",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-foliate-wave-on-rose-bar.png",
+        "webp": "webp/white-foliate-wave-on-rose-bar.webp",
+        "width": 1845,
+        "height": 207,
+        "png_bytes": 146424,
+        "webp_bytes": 386836,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-bar.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-bar.webp",
+            "width": 128,
+            "height": 14,
+            "png_bytes": 4920,
+            "webp_bytes": 3818
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-foliate-wave-on-rose-bar.png",
+            "webp": "webp/256/white-foliate-wave-on-rose-bar.webp",
+            "width": 256,
+            "height": 29,
+            "png_bytes": 17115,
+            "webp_bytes": 13034
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/white-foliate-wave-on-rose-bar.png",
+            "webp": "webp/512/white-foliate-wave-on-rose-bar.webp",
+            "width": 512,
+            "height": 57,
+            "png_bytes": 59609,
+            "webp_bytes": 53024
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/white-foliate-wave-on-rose-bar.png",
+            "webp": "webp/768/white-foliate-wave-on-rose-bar.webp",
+            "width": 768,
+            "height": 86,
+            "png_bytes": 126907,
+            "webp_bytes": 102482
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-foliate-wave-on-rose-border.png",
+        "webp": "webp/white-foliate-wave-on-rose-border.webp",
+        "width": 783,
+        "height": 783,
+        "png_bytes": 712665,
+        "webp_bytes": 590476,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 87,
+            "png": "png/128/white-foliate-wave-on-rose-border.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-border.webp",
+            "width": 87,
+            "height": 87,
+            "png_bytes": 11572,
+            "webp_bytes": 7888
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 174,
+            "png": "png/256/white-foliate-wave-on-rose-border.png",
+            "webp": "webp/256/white-foliate-wave-on-rose-border.webp",
+            "width": 174,
+            "height": 174,
+            "png_bytes": 45353,
+            "webp_bytes": 40410
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 435,
+            "png": "png/512/white-foliate-wave-on-rose-border.png",
+            "webp": "webp/512/white-foliate-wave-on-rose-border.webp",
+            "width": 435,
+            "height": 435,
+            "png_bytes": 240767,
+            "webp_bytes": 215700
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 696,
+            "png": "png/768/white-foliate-wave-on-rose-border.png",
+            "webp": "webp/768/white-foliate-wave-on-rose-border.webp",
+            "width": 696,
+            "height": 696,
+            "png_bytes": 574948,
+            "webp_bytes": 511562
+          }
+        ],
+        "slice_pixels": 207
+      },
+      "corner-top-left": {
+        "png": "png/white-foliate-wave-on-rose-corner-top-left.png",
+        "webp": "webp/white-foliate-wave-on-rose-corner-top-left.webp",
+        "width": 207,
+        "height": 207,
+        "png_bytes": 77056,
+        "webp_bytes": 62154,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-corner-top-left.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31852,
+            "webp_bytes": 27908
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-foliate-wave-on-rose-corner-top-right.png",
+        "webp": "webp/white-foliate-wave-on-rose-corner-top-right.webp",
+        "width": 207,
+        "height": 207,
+        "png_bytes": 77925,
+        "webp_bytes": 61214,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-corner-top-right.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31814,
+            "webp_bytes": 27596
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-foliate-wave-on-rose-corner-bottom-right.png",
+        "webp": "webp/white-foliate-wave-on-rose-corner-bottom-right.webp",
+        "width": 207,
+        "height": 207,
+        "png_bytes": 77121,
+        "webp_bytes": 64312,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-corner-bottom-right.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31963,
+            "webp_bytes": 27812
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-foliate-wave-on-rose-corner-bottom-left.png",
+        "webp": "webp/white-foliate-wave-on-rose-corner-bottom-left.webp",
+        "width": 207,
+        "height": 207,
+        "png_bytes": 77526,
+        "webp_bytes": 65338,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-corner-bottom-left.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31420,
+            "webp_bytes": 27184
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-foliate-wave-on-rose-rotated.png",
+        "webp": "webp/white-foliate-wave-on-rose-rotated.webp",
+        "width": 207,
+        "height": 369,
+        "png_bytes": 137007,
+        "webp_bytes": 114704,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-rotated.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-rotated.webp",
+            "width": 72,
+            "height": 128,
+            "png_bytes": 19589,
+            "webp_bytes": 15262
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-foliate-wave-on-rose-rotated.png",
+            "webp": "webp/256/white-foliate-wave-on-rose-rotated.webp",
+            "width": 144,
+            "height": 256,
+            "png_bytes": 69722,
+            "webp_bytes": 60280
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 1.7826086956521738
+      },
+      "rotated_bar": {
+        "png": "png/white-foliate-wave-on-rose-bar-rotated.png",
+        "webp": "webp/white-foliate-wave-on-rose-bar-rotated.webp",
+        "width": 207,
+        "height": 1845,
+        "png_bytes": 682428,
+        "webp_bytes": 356478,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-foliate-wave-on-rose-bar-rotated.png",
+            "webp": "webp/128/white-foliate-wave-on-rose-bar-rotated.webp",
+            "width": 14,
+            "height": 128,
+            "png_bytes": 5009,
+            "webp_bytes": 4076
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-foliate-wave-on-rose-bar-rotated.png",
+            "webp": "webp/256/white-foliate-wave-on-rose-bar-rotated.webp",
+            "width": 29,
+            "height": 256,
+            "png_bytes": 17889,
+            "webp_bytes": 14686
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/white-foliate-wave-on-rose-bar-rotated.png",
+            "webp": "webp/512/white-foliate-wave-on-rose-bar-rotated.webp",
+            "width": 57,
+            "height": 512,
+            "png_bytes": 62970,
+            "webp_bytes": 49348
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 768,
+            "png": "png/768/white-foliate-wave-on-rose-bar-rotated.png",
+            "webp": "webp/768/white-foliate-wave-on-rose-bar-rotated.webp",
+            "width": 86,
+            "height": 768,
+            "png_bytes": 134072,
+            "webp_bytes": 101112
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-194v",
+    "png": "png/white-foliate-wave-on-rose.png",
+    "webp": "webp/white-foliate-wave-on-rose.webp",
+    "width": 369,
+    "height": 207,
+    "png_bytes": 133426,
+    "webp_bytes": 111194,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-foliate-wave-on-rose.png",
+        "webp": "webp/128/white-foliate-wave-on-rose.webp",
+        "width": 128,
+        "height": 72,
+        "png_bytes": 19093,
+        "webp_bytes": 15230
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/white-foliate-wave-on-rose.png",
+        "webp": "webp/256/white-foliate-wave-on-rose.webp",
+        "width": 256,
+        "height": 144,
+        "png_bytes": 68210,
+        "webp_bytes": 60032
+      }
+    ],
+    "repeat_ratio": 1.7826086956521738,
+    "source_pattern": "The original rose end section contains three successive waved arches with white leaf branches above and below. A complete interior motif cell retains both original branch positions. The earlier blue/gold section and finite endpoint are excluded; hand-drawn neighboring leaves vary.",
+    "border_image_slice_percent": 26.436781609195403,
+    "frame_edge_ratio": 1.7826086956521738,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original hand-painted motif cell, with all source paint and cream decoration retained. Neighboring source motifs differ by hand. Only two native end columns adjusted; interiors untouched. Derived four phase-matched corners reflect this exact artwork, and do not claim to be original manuscript corners. PNG/WebP; vector tracing would lose paint texture.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 369,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A cream looped wave between pale rules on blue. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "wave",
+      "curl",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-looped-wave-on-blue",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-looped-wave-on-blue-bar.png",
+        "webp": "webp/white-looped-wave-on-blue-bar.webp",
+        "width": 405,
+        "height": 193,
+        "png_bytes": 31225,
+        "webp_bytes": 112472,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-bar.png",
+            "webp": "webp/128/white-looped-wave-on-blue-bar.webp",
+            "width": 128,
+            "height": 61,
+            "png_bytes": 16603,
+            "webp_bytes": 13770
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-looped-wave-on-blue-bar.png",
+            "webp": "webp/256/white-looped-wave-on-blue-bar.webp",
+            "width": 256,
+            "height": 122,
+            "png_bytes": 59496,
+            "webp_bytes": 51494
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-looped-wave-on-blue-border.png",
+        "webp": "webp/white-looped-wave-on-blue-border.webp",
+        "width": 467,
+        "height": 467,
+        "png_bytes": 256408,
+        "webp_bytes": 285934,
+        "variants": [],
+        "slice_pixels": 193
+      },
+      "corner-top-left": {
+        "png": "png/white-looped-wave-on-blue-corner-top-left.png",
+        "webp": "webp/white-looped-wave-on-blue-corner-top-left.webp",
+        "width": 193,
+        "height": 193,
+        "png_bytes": 57745,
+        "webp_bytes": 59054,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-corner-top-left.png",
+            "webp": "webp/128/white-looped-wave-on-blue-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31585,
+            "webp_bytes": 28572
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-looped-wave-on-blue-corner-top-right.png",
+        "webp": "webp/white-looped-wave-on-blue-corner-top-right.webp",
+        "width": 193,
+        "height": 193,
+        "png_bytes": 58346,
+        "webp_bytes": 59332,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-corner-top-right.png",
+            "webp": "webp/128/white-looped-wave-on-blue-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31950,
+            "webp_bytes": 28796
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-looped-wave-on-blue-corner-bottom-right.png",
+        "webp": "webp/white-looped-wave-on-blue-corner-bottom-right.webp",
+        "width": 193,
+        "height": 193,
+        "png_bytes": 58178,
+        "webp_bytes": 58678,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-corner-bottom-right.png",
+            "webp": "webp/128/white-looped-wave-on-blue-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31718,
+            "webp_bytes": 28568
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-looped-wave-on-blue-corner-bottom-left.png",
+        "webp": "webp/white-looped-wave-on-blue-corner-bottom-left.webp",
+        "width": 193,
+        "height": 193,
+        "png_bytes": 58523,
+        "webp_bytes": 60096,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-corner-bottom-left.png",
+            "webp": "webp/128/white-looped-wave-on-blue-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31743,
+            "webp_bytes": 28690
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-looped-wave-on-blue-rotated.png",
+        "webp": "webp/white-looped-wave-on-blue-rotated.webp",
+        "width": 193,
+        "height": 81,
+        "png_bytes": 29238,
+        "webp_bytes": 26022,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-rotated.png",
+            "webp": "webp/128/white-looped-wave-on-blue-rotated.webp",
+            "width": 128,
+            "height": 54,
+            "png_bytes": 13666,
+            "webp_bytes": 11756
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 0.41968911917098445
+      },
+      "rotated_bar": {
+        "png": "png/white-looped-wave-on-blue-bar-rotated.png",
+        "webp": "webp/white-looped-wave-on-blue-bar-rotated.webp",
+        "width": 193,
+        "height": 405,
+        "png_bytes": 144180,
+        "webp_bytes": 109782,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-looped-wave-on-blue-bar-rotated.png",
+            "webp": "webp/128/white-looped-wave-on-blue-bar-rotated.webp",
+            "width": 61,
+            "height": 128,
+            "png_bytes": 17277,
+            "webp_bytes": 14224
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-looped-wave-on-blue-bar-rotated.png",
+            "webp": "webp/256/white-looped-wave-on-blue-bar-rotated.webp",
+            "width": 122,
+            "height": 256,
+            "png_bytes": 61464,
+            "webp_bytes": 51810
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-194v",
+    "png": "png/white-looped-wave-on-blue.png",
+    "webp": "webp/white-looped-wave-on-blue.webp",
+    "width": 81,
+    "height": 193,
+    "png_bytes": 28839,
+    "webp_bytes": 25482,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-looped-wave-on-blue.png",
+        "webp": "webp/128/white-looped-wave-on-blue.webp",
+        "width": 54,
+        "height": 128,
+        "png_bytes": 13452,
+        "webp_bytes": 12276
+      }
+    ],
+    "repeat_ratio": 0.41968911917098445,
+    "source_pattern": "The blue portion of the finite source bar contains five consecutive curled wave cycles. One interior full looped wave and original spacing are selected; the rose color change, single gold pip and finite caps are excluded.",
+    "border_image_slice_percent": 41.32762312633833,
+    "frame_edge_ratio": 0.41968911917098445,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original hand-painted motif cell, with all source paint and cream decoration retained. Neighboring source motifs differ by hand. Only two native end columns adjusted; interiors untouched. Derived four phase-matched corners reflect this exact artwork, and do not claim to be original manuscript corners. PNG/WebP; vector tracing would lose paint texture.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 193,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A hand painted white wave with alternating white dots and two white bounding lines on blue. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "wave",
+      "dot",
+      "line",
+      "band"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-wave-and-alternating-dots-on-blue",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-bar.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-bar.webp",
+        "width": 670,
+        "height": 223,
+        "png_bytes": 58411,
+        "webp_bytes": 162040,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-bar.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-bar.webp",
+            "width": 128,
+            "height": 43,
+            "png_bytes": 12291,
+            "webp_bytes": 10366
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-wave-and-alternating-dots-on-blue-bar.png",
+            "webp": "webp/256/white-wave-and-alternating-dots-on-blue-bar.webp",
+            "width": 256,
+            "height": 85,
+            "png_bytes": 42983,
+            "webp_bytes": 38520
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/white-wave-and-alternating-dots-on-blue-bar.png",
+            "webp": "webp/512/white-wave-and-alternating-dots-on-blue-bar.webp",
+            "width": 512,
+            "height": 170,
+            "png_bytes": 158028,
+            "webp_bytes": 135414
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-border.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-border.webp",
+        "width": 580,
+        "height": 580,
+        "png_bytes": 402428,
+        "webp_bytes": 410806,
+        "variants": [],
+        "slice_pixels": 223
+      },
+      "corner-top-left": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-corner-top-left.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-corner-top-left.webp",
+        "width": 223,
+        "height": 223,
+        "png_bytes": 84378,
+        "webp_bytes": 75624,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-corner-top-left.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-corner-top-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32026,
+            "webp_bytes": 31058
+          }
+        ]
+      },
+      "corner-top-right": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-corner-top-right.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-corner-top-right.webp",
+        "width": 223,
+        "height": 223,
+        "png_bytes": 84489,
+        "webp_bytes": 75218,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-corner-top-right.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-corner-top-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32173,
+            "webp_bytes": 29398
+          }
+        ]
+      },
+      "corner-bottom-right": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-corner-bottom-right.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-corner-bottom-right.webp",
+        "width": 223,
+        "height": 223,
+        "png_bytes": 84701,
+        "webp_bytes": 75652,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-corner-bottom-right.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-corner-bottom-right.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 32234,
+            "webp_bytes": 29308
+          }
+        ]
+      },
+      "corner-bottom-left": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-corner-bottom-left.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-corner-bottom-left.webp",
+        "width": 223,
+        "height": 223,
+        "png_bytes": 84384,
+        "webp_bytes": 74504,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-corner-bottom-left.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-corner-bottom-left.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 31917,
+            "webp_bytes": 29152
+          }
+        ]
+      },
+      "rotated_tile": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-rotated.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-rotated.webp",
+        "width": 223,
+        "height": 134,
+        "png_bytes": 53916,
+        "webp_bytes": 46448,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-rotated.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-rotated.webp",
+            "width": 128,
+            "height": 77,
+            "png_bytes": 19544,
+            "webp_bytes": 17906
+          }
+        ],
+        "repeat_axis": "y",
+        "repeat_ratio": 0.600896860986547
+      },
+      "rotated_bar": {
+        "png": "png/white-wave-and-alternating-dots-on-blue-bar-rotated.png",
+        "webp": "webp/white-wave-and-alternating-dots-on-blue-bar-rotated.webp",
+        "width": 223,
+        "height": 670,
+        "png_bytes": 267425,
+        "webp_bytes": 160236,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-wave-and-alternating-dots-on-blue-bar-rotated.png",
+            "webp": "webp/128/white-wave-and-alternating-dots-on-blue-bar-rotated.webp",
+            "width": 43,
+            "height": 128,
+            "png_bytes": 12863,
+            "webp_bytes": 11076
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-wave-and-alternating-dots-on-blue-bar-rotated.png",
+            "webp": "webp/256/white-wave-and-alternating-dots-on-blue-bar-rotated.webp",
+            "width": 85,
+            "height": 256,
+            "png_bytes": 45046,
+            "webp_bytes": 38956
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 512,
+            "png": "png/512/white-wave-and-alternating-dots-on-blue-bar-rotated.png",
+            "webp": "webp/512/white-wave-and-alternating-dots-on-blue-bar-rotated.webp",
+            "width": 170,
+            "height": 512,
+            "png_bytes": 164949,
+            "webp_bytes": 147056
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-191v",
+    "png": "png/white-wave-and-alternating-dots-on-blue.png",
+    "webp": "webp/white-wave-and-alternating-dots-on-blue.webp",
+    "width": 134,
+    "height": 223,
+    "png_bytes": 53867,
+    "webp_bytes": 45726,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-wave-and-alternating-dots-on-blue.png",
+        "webp": "webp/128/white-wave-and-alternating-dots-on-blue.webp",
+        "width": 77,
+        "height": 128,
+        "png_bytes": 19261,
+        "webp_bytes": 17838
+      }
+    ],
+    "repeat_ratio": 0.600896860986547,
+    "source_pattern": "The inspected original blue line filler contains five consecutive white wave cycles, each with a dot above the low portion and a dot below the high portion. The selected interior cycle retains BOTH alternating dot phases and both original horizontal white lines. The gold pip and curled endpoint are finite end decorations and are excluded.",
+    "border_image_slice_percent": 38.44827586206897,
+    "frame_edge_ratio": 0.600896860986547,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin",
+      "object_identifier": "W.82, fol. 191v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "8c42322b38c5ea4a01e13cae700ad7c129c1953fc3fdd3fb6b7ce92a44e7c967",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000386_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original painted blue field is intrinsic artwork. Repeat unit has its original one-cycle motif or motif-cell geometry. All interiors retain scan colors after the audited rigid orientation correction; only two end columns are joined. Four derived corners use the same source artwork and phase, not unrelated flowers. PNG/WebP to retain paint texture.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-191v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin (walters-w82-191v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7864,
+      "height": 8288
+    },
+    "master_longest_dimension_cap": 223,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A cream zigzag and alternating upper and lower dots on rose. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "wave",
+      "dot",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "cream",
+      "white"
+    ],
+    "composition": "repeat-tile",
+    "name": "white-zigzag-and-alternating-dots-on-rose",
+    "asset_type": "border",
+    "kind": "repeat-tile",
+    "repeat_axis": "x",
+    "components": {
+      "bar": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-bar.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-bar.webp",
+        "width": 420,
+        "height": 92,
+        "png_bytes": 14097,
+        "webp_bytes": 13562,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-zigzag-and-alternating-dots-on-rose-bar.png",
+            "webp": "webp/128/white-zigzag-and-alternating-dots-on-rose-bar.webp",
+            "width": 128,
+            "height": 28,
+            "png_bytes": 7325,
+            "webp_bytes": 5674
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-zigzag-and-alternating-dots-on-rose-bar.png",
+            "webp": "webp/256/white-zigzag-and-alternating-dots-on-rose-bar.webp",
+            "width": 256,
+            "height": 56,
+            "png_bytes": 25115,
+            "webp_bytes": 20048
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-border.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-border.webp",
+        "width": 268,
+        "height": 268,
+        "png_bytes": 81751,
+        "webp_bytes": 80998,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 67,
+            "png": "png/128/white-zigzag-and-alternating-dots-on-rose-border.png",
+            "webp": "webp/128/white-zigzag-and-alternating-dots-on-rose-border.webp",
+            "width": 67,
+            "height": 67,
+            "png_bytes": 6129,
+            "webp_bytes": 4110
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 201,
+            "png": "png/256/white-zigzag-and-alternating-dots-on-rose-border.png",
+            "webp": "webp/256/white-zigzag-and-alternating-dots-on-rose-border.webp",
+            "width": 201,
+            "height": 201,
+            "png_bytes": 48635,
+            "webp_bytes": 47754
+          }
+        ],
+        "slice_pixels": 92
+      },
+      "corner-top-left": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-corner-top-left.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-corner-top-left.webp",
+        "width": 92,
+        "height": 92,
+        "png_bytes": 14397,
+        "webp_bytes": 12362,
+        "variants": []
+      },
+      "corner-top-right": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-corner-top-right.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-corner-top-right.webp",
+        "width": 92,
+        "height": 92,
+        "png_bytes": 14391,
+        "webp_bytes": 12114,
+        "variants": []
+      },
+      "corner-bottom-right": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-corner-bottom-right.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-corner-bottom-right.webp",
+        "width": 92,
+        "height": 92,
+        "png_bytes": 14403,
+        "webp_bytes": 12364,
+        "variants": []
+      },
+      "corner-bottom-left": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-corner-bottom-left.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-corner-bottom-left.webp",
+        "width": 92,
+        "height": 92,
+        "png_bytes": 14377,
+        "webp_bytes": 12088,
+        "variants": []
+      },
+      "rotated_tile": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-rotated.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-rotated.webp",
+        "width": 92,
+        "height": 84,
+        "png_bytes": 12990,
+        "webp_bytes": 10538,
+        "variants": [],
+        "repeat_axis": "y",
+        "repeat_ratio": 0.9130434782608695
+      },
+      "rotated_bar": {
+        "png": "png/white-zigzag-and-alternating-dots-on-rose-bar-rotated.png",
+        "webp": "webp/white-zigzag-and-alternating-dots-on-rose-bar-rotated.webp",
+        "width": 92,
+        "height": 420,
+        "png_bytes": 14477,
+        "webp_bytes": 14986,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/white-zigzag-and-alternating-dots-on-rose-bar-rotated.png",
+            "webp": "webp/128/white-zigzag-and-alternating-dots-on-rose-bar-rotated.webp",
+            "width": 28,
+            "height": 128,
+            "png_bytes": 7519,
+            "webp_bytes": 6078
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/white-zigzag-and-alternating-dots-on-rose-bar-rotated.png",
+            "webp": "webp/256/white-zigzag-and-alternating-dots-on-rose-bar-rotated.webp",
+            "width": 56,
+            "height": 256,
+            "png_bytes": 25864,
+            "webp_bytes": 20258
+          }
+        ]
+      }
+    },
+    "reference": "walters-w82-194v",
+    "png": "png/white-zigzag-and-alternating-dots-on-rose.png",
+    "webp": "webp/white-zigzag-and-alternating-dots-on-rose.webp",
+    "width": 84,
+    "height": 92,
+    "png_bytes": 12904,
+    "webp_bytes": 10506,
+    "variants": [],
+    "repeat_ratio": 0.9130434782608695,
+    "source_pattern": "The original bar shows four successive cream waves with alternating upper/lower dots. The selected native interior cycle contains the upper dot centered near x300 and lower dot near x343, plus the whole wave between equivalent native stroke phases at x269 and x353. The irregular finite outside bar outline and bounding rules remain available in the separate whole parent; this unit intentionally isolates the interior pattern band.",
+    "border_image_slice_percent": 34.32835820895522,
+    "frame_edge_ratio": 0.9130434782608695,
+    "frame_fit": "round",
+    "corner_method": "source-derived-miter",
+    "derivation": "native-source-repeat",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-repeat",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "This is the original inner rose painted motif band, containing one entire cream wave and both upper/lower dots. The finite bar master separately retains its unequal outside outline and both bounding cream rules. Those finite outer rules are omitted from this deliberate interior repeat; no exterior parchment is included. Native original rose fill and motifs stay unchanged. Six transparent support rows above/below, two-column join only. Four corners derive from this exact inner pattern.",
+      "Repeats originally horizontally; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 92,
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
